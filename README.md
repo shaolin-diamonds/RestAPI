@@ -17,32 +17,27 @@ Create a very basic REST API with Node.js (JavaScript), Express, and Postman.
 <h2>Program walk-through:</h2>
 
 <p align="center">
-Launch the utility: <br/>
-<img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<h3>Project initialization:</h3> <br/>
+Initialize npm (node package manager) and adds package.json <br/>
+<img src="001_RestAPI_img.png" height="80%" width="80%" alt="RestAPI Steps"/>
+<br />
+Install npm express and body parser <br/>
+<img src="002_RestAPI_img.png" height="80%" width="80%" alt="RestAPI Steps"/>
+<br />
+<img src="003_RestAPI_img.png" height="80%" width="80%" alt="RestAPI Steps"/>
+<br />
+These installations modify package.json by adding to dependencies <br/>
+<img src="004_RestAPI_img.png" height="80%" width="80%" alt="RestAPI Steps"/>
 <br />
 <br />
-Select the disk:  <br/>
-<img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Create index, import modules that were downloaded, and listen on port 3000: <br/>
+<img src="005_RestAPI_img.png" height="80%" width="80%" alt="RestAPI Steps"/>
 <br />
 <br />
-Enter the number of passes: <br/>
-<img src="https://i.imgur.com/nCIbXbg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Now have basic structure time to test by running nodemon and using web browser with localhost 3000: <br/>
+<img src="006_RestAPI_img.png" height="80%" width="80%" alt="RestAPI Steps"/>
 <br />
-<br />
-Confirm your selection:  <br/>
-<img src="https://i.imgur.com/cdFHBiU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Wait for process to complete (may take some time):  <br/>
-<img src="https://i.imgur.com/JL945Ga.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Sanitization complete:  <br/>
-<img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Observe the wiped disk:  <br/>
-<img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="007_RestAPI_img.png" height="80%" width="80%" alt="RestAPI Steps"/>
 </p>
 
 <!--
