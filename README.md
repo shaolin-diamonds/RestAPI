@@ -19,25 +19,25 @@ Create a very basic REST API with Node.js (JavaScript), Express, and Postman.
 <p align="center">
 <h3>Project initialization:</h3> <br/>
 Initialize npm (node package manager) and adds package.json <br/>
-<img src="001_RestAPI_img.png" height="80%" width="80%" alt="RestAPI Steps"/>
+<img src="RestAPI_img/001_RestAPI_img.png" height="80%" width="80%" alt="RestAPI Steps"/>
 <br />
 Install npm express and body parser <br/>
-<img src="002_RestAPI_img.png" height="80%" width="80%" alt="RestAPI Steps"/>
+<img src="RestAPI_img/002_RestAPI_img.png" height="80%" width="80%" alt="RestAPI Steps"/>
 <br />
-<img src="003_RestAPI_img.png" height="80%" width="80%" alt="RestAPI Steps"/>
+<img src="RestAPI_img/003_RestAPI_img.png" height="80%" width="80%" alt="RestAPI Steps"/>
 <br />
 These installations modify package.json by adding to dependencies <br/>
-<img src="004_RestAPI_img.png" height="80%" width="80%" alt="RestAPI Steps"/>
+<img src="RestAPI_img/004_RestAPI_img.png" height="80%" width="80%" alt="RestAPI Steps"/>
 <br />
 <br />
 Create index, import modules that were downloaded, and listen on port 3000: <br/>
-<img src="005_RestAPI_img.png" height="80%" width="80%" alt="RestAPI Steps"/>
+<img src="RestAPI_img/005_RestAPI_img.png" height="80%" width="80%" alt="RestAPI Steps"/>
 <br />
 <br />
 Now have basic structure time to test by running nodemon and using web browser with localhost 3000: <br/>
-<img src="006_RestAPI_img.png" height="80%" width="80%" alt="RestAPI Steps"/>
+<img src="RestAPI_img/006_RestAPI_img.png" height="80%" width="80%" alt="RestAPI Steps"/>
 <br />
-<img src="007_RestAPI_img.png" height="80%" width="80%" alt="RestAPI Steps"/>
+<img src="RestAPI_img/007_RestAPI_img.png" height="80%" width="80%" alt="RestAPI Steps"/>
 </p>
 
 <!--
